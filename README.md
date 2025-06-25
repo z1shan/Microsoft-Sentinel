@@ -1,4 +1,4 @@
-# Azure Sentinel Contributions
+# Microsoft Sentinel Contributions
 
 This repository contains Azure Sentinel analytic rules tailored for third-party firewalls, including Palo Alto, Fortinet, and Web Application Firewall BIG-IP F5. These rules are designed to enhance threat detection and response capabilities in your Azure Sentinel environment when integrated with these popular firewall solutions.
 
